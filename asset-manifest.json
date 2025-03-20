@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.76f961ad.css",
-    "main.js": "/static/js/main.d52fb52b.js",
-    "static/js/453.c9e0e4a2.chunk.js": "/static/js/453.c9e0e4a2.chunk.js",
-    "static/media/background.jpeg": "/static/media/background.02f5455d3c7c995b91e7.jpeg",
-    "static/media/badges.png": "/static/media/badges.77c7d52158a3964cf8a9.png",
-    "static/media/ri.png": "/static/media/ri.518acb96905fb7ee56ca.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "static/media/twitter.svg": "/static/media/twitter.004806d211cb2651d185d7c6ca4a82fe.svg",
-    "static/media/facebook.svg": "/static/media/facebook.1a935b078977a92499137486ce3f00dc.svg",
-    "main.76f961ad.css.map": "/static/css/main.76f961ad.css.map",
-    "main.d52fb52b.js.map": "/static/js/main.d52fb52b.js.map",
-    "453.c9e0e4a2.chunk.js.map": "/static/js/453.c9e0e4a2.chunk.js.map"
+    "main.css": "/rihousing/static/css/main.76f961ad.css",
+    "main.js": "/rihousing/static/js/main.f94d853a.js",
+    "static/js/453.c9e0e4a2.chunk.js": "/rihousing/static/js/453.c9e0e4a2.chunk.js",
+    "static/media/background.jpeg": "/rihousing/static/media/background.02f5455d3c7c995b91e7.jpeg",
+    "static/media/badges.png": "/rihousing/static/media/badges.77c7d52158a3964cf8a9.png",
+    "static/media/ri.png": "/rihousing/static/media/ri.518acb96905fb7ee56ca.png",
+    "static/media/logo.svg": "/rihousing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rihousing/index.html",
+    "static/media/twitter.svg": "/rihousing/static/media/twitter.004806d211cb2651d185d7c6ca4a82fe.svg",
+    "static/media/facebook.svg": "/rihousing/static/media/facebook.1a935b078977a92499137486ce3f00dc.svg",
+    "main.76f961ad.css.map": "/rihousing/static/css/main.76f961ad.css.map",
+    "main.f94d853a.js.map": "/rihousing/static/js/main.f94d853a.js.map",
+    "453.c9e0e4a2.chunk.js.map": "/rihousing/static/js/453.c9e0e4a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76f961ad.css",
-    "static/js/main.d52fb52b.js"
+    "static/js/main.f94d853a.js"
   ]
 }
